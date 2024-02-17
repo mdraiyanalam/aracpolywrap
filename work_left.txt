@@ -1,0 +1,11 @@
+- section calling doesnt work
+- color schemeing
+- "Our Product' section is not well decorated. Either add decorated horizontal and vertical line
+OR 
+See 'aracpolywrap.com/index.html' current out product section
+
+- There is no 'circular progress bar' in the testmonial section
+- There is 'no phone number' in 'contact-us' section
+- the is no 'back to top' section
+- 'Social-Link' of footer is not good
+- clean the code

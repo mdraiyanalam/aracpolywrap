@@ -1,0 +1,24 @@
+.defaultimgsize {
+    width: 445px;
+    height: 445px;
+}
+
+.defaultimgsize02 {
+    width: 400px;
+    height: 400px;
+}
+
+.hr {
+    border: none;
+    height: 2px; /* Adjust the thickness of the line */
+    background-color: #333; /* Adjust the color of the line */
+    margin: 20px 0; /* Adjust the spacing above and below the line */
+}
+
+.v {
+    border-left: 2px solid #333; /* Adjust the thickness and color of the line */
+    height: 100px; /* Adjust the height of the line */
+    margin: 0 20px; /* Adjust the spacing to the left and right of the line */
+}
+  
+  
